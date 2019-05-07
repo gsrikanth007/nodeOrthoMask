@@ -1,0 +1,22 @@
+{
+  "name": "sampledicom",
+  "version": "1.0.0",
+  "description": "sample project of dicom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "srikanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "orthanc-client": "^0.10.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
